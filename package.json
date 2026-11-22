@@ -1,0 +1,16 @@
+{
+  "name": "ai-detector-site",
+  "version": "1.0.0",
+  "description": "Best AI Detector Tools 2026 - Comparison site",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "ai-detector",
+    "analytics"
+  ],
+  "author": "",
+  "license": "ISC"
+}
